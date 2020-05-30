@@ -1,0 +1,7 @@
+Clustering threshold	Cumulative variance
+Variance explained by first 5 PCs for /home/daniel/clustOpt/0.88.vcf:	0.4598232
+Variance explained by first 5 PCs for /home/daniel/clustOpt/0.90.vcf:	0.4538845
+Variance explained by first 5 PCs for /home/daniel/clustOpt/0.92.vcf:	0.4387444
+Variance explained by first 5 PCs for /home/daniel/clustOpt/0.94.vcf:	0.4256577
+Variance explained by first 5 PCs for /home/daniel/clustOpt/0.96.vcf:	0.4045475
+Variance explained by first 5 PCs for /home/daniel/clustOpt/0.98.vcf:	0.4242971
