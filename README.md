@@ -10,4 +10,5 @@ The **data** directory contains a **.txt** file with the results of the analysis
 
 The **meta** directory is a metadata file that contains the catalog number for all samples analyzed and the collection site for each. The samples evaluated correspond to the lizard species *Gerrhonotus infernalis*, which is widely distributed (from central Texas to Hidalgo and northern Veracruz, Mexico). Studies with mitochondrial and nuclear genes have found a marked population structure within the species, and different morphologically different groups have also been found, which is why the existence of cryptic species hidden under the current taxonomy has been raised.
 
+**The summary and discussion of this project can be found at the following link: https://github.com/jdaniellt/Proyecto_Bionf2020/blob/master/RESUMEN%20Y%20DISCUSION.md**
 
