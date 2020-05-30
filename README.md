@@ -1,4 +1,5 @@
 # Proyecto_Bionf2020
+### Author: Josè Daniel Lara Tufiño
 
 ### This README contains a Bashscript to analyze raw sequences (ddRADseq) in ipyrad (Eaton and Overcast, 2010), and subsequently evaluate the processed data using the "Cumulative variance explained by major principal components" metric explained and implemented in McCartney-Melstad, Gidis and Bradley-Shaffer (2019), aiming to help to choose the optimal clustering threshold.
 
