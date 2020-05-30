@@ -18,9 +18,11 @@ Figura 1:
 ![alt text](https://github.com/jdaniellt/Proyecto_Bionf2020/blob/master/Imagenes%20empleadas%20en%20discusi%C3%B2n/Imagenes%20empleadas%20en%20discusi%C3%B2n/Figura%201.png "Logo Title Text 1")
 
 
-Extrañamente el umbral de agrupamiento óptimo estimado por la métrica implementada fue bajo (0.88) en comparación con otros estudios (0.94-0.96; McCartney-Melstad *et al* (2020), y el manual de ipyrad el umbral de agrupamiento óptimo se propone entre los 0.95-0.96. En este sentido descarté que se tratase de un error bioinformático, pues tambièn corrí los mismos scripts para los archivos de McCartney y Melstad *et al* (2020) y el resultado fue los idéntico a los que presentan en su artículo (ver **Figura 2**).
+Extrañamente el umbral de agrupamiento óptimo estimado por la métrica implementada fue bajo (0.88) en comparación con otros estudios (0.94-0.96; McCartney-Melstad *et al* (2020), y el manual de ipyrad donde el umbral de agrupamiento óptimo se propone entre los 0.95-0.96. En este sentido descarté que se tratase de un error bioinformático, pues tambièn corrí los mismos scripts para los archivos de McCartney y Melstad *et al* (2020) y el resultado fue los idéntico a los que presentan en su artículo (ver **Figura 2**).
 
 Figura 2: 
 ![alt text](https://github.com/jdaniellt/Proyecto_Bionf2020/blob/master/Imagenes%20empleadas%20en%20discusi%C3%B2n/Imagenes%20empleadas%20en%20discusi%C3%B2n/Figura%202.png "Logo Title Text 1")
+
+Naturalmente los resultados propios (archivos vcf generados mediante mis secuencias) y los resultados obtenidos con los archivos de McCartney-Melstad *et al*., (2020) tenian que variar, pero la diferencia es dràstica como se comentò anteriormente. Probablemente una de las causas sean los valores establecidos para cada paràmetro en el archivo params.txt empleado para correr ipyrad. AL comparar  i archivo params.txt y el de el encontrè diferencias en los valores 
 
 
